@@ -1,0 +1,17 @@
+﻿l_english:
+ TITLE_NAME:0 "$NAME$"
+ TITLE_TIERED_NAME:0 "$TIER|U$ of $NAME$"
+ TITLE_CLAN_TIERED_NAME:0 "the $NAME$ $TIER|U$"
+ TITLE_CLAN_TIERED_WITH_UNDERLYING_NAME:0 "the $NAME$ $TIER|U$ #F ($TIER|U$ of $BASE_NAME$) #!"
+ TITLE_TIER_AS_NAME:0 "$TIER|U$"
+
+ e_test:0 "Lucifer's Inferno"
+ e_test_adj:0 "Inferno"
+ k_test:0 "Infernus"
+ k_test_adj:0 "Infernus"
+ c_test_1:0 "Infernum"
+ c_test_1_adj:0 "Infernum"
+ d_test_1:0 "The Core"
+ d_test_1_adj:0 "Core"
+ b_test_1:0 "Senate Tower"
+ b_test_1:0 "Tower"

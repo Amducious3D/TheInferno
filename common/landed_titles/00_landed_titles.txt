@@ -1,0 +1,357 @@
+﻿@correct_culture_primary_score = 100
+@better_than_the_alternatives_score = 50
+@always_primary_score = 1000
+
+e_inferno = {
+	color =  hsv{ 0.9 1 0.3 } #hsv{ 0.73 0.8 0.4 }  #hsv{ 0.77 0.8 0.6 } #{ 143 12 125 }
+	color2 = { 255 255 255 }
+	
+	capital = c_lucifers_palace
+	
+	definite_form = yes
+	
+	ai_primary_priority = {
+		if = {
+			limit = {
+				culture = culture:luciferan
+			}
+			add = @correct_culture_primary_score
+		}
+	}
+	
+	
+	k_infernus = {
+		color = { 175 30 130 }
+		color2 = { 255 255 23 }
+		
+		capital = c_lucifers_palace
+		
+		ai_primary_priority = {
+			if = {
+				limit = {
+					culture = culture:luciferan
+				}
+				add = @correct_culture_primary_score
+			}
+		}
+		
+		d_infernus_outer = {
+			color = { 180 25 100 }
+			color2 = { 255 255 255 }
+			
+			capital = c_lucifers_palace
+			c_lucifers_palace = {
+				color = { 170 55 90 }
+				color2 = { 255 255 255 }
+				
+				b_barony_1256 = {
+					province = 1256
+					
+					color = { 170 55 90 }
+					color2 = { 255 255 255 }
+				}
+				
+				b_barony_595 = {
+					province = 595
+					
+					color = { 170 65 90 }
+					color2 = { 255 255 255 }
+				}
+				b_barony_988 = {
+					province = 988
+					
+					color = { 170 75 90 }
+					color2 = { 255 255 255 }
+				}				
+			}
+			
+			c_infernus_gardens = {
+				color = { 170 55 90 }
+				color2 = { 255 255 255 }
+				
+				b_barony_965 = {
+					province = 965
+					
+					color = { 170 75 90 }
+					color2 = { 255 255 255 }
+				}
+				
+				b_barony_1430 = {
+					province = 1430
+					
+					color = { 170 75 90 }
+					color2 = { 255 255 255 }
+				}
+				b_barony_275 = {
+					province = 275
+					
+					color = { 170 75 90 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_infernus_outer_1 = {
+				color = { 170 55 90 }
+				color2 = { 255 255 255 }
+				
+				b_barony_398 = {
+					province = 398
+					
+					color = { 170 75 90 }
+					color2 = { 255 255 255 }
+				}
+				
+				b_barony_456 = {
+					province = 456
+					
+					color = { 170 75 90 }
+					color2 = { 255 255 255 }
+				}
+				b_barony_1302 = {
+					province = 1302
+					
+					color = { 170 75 90 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_infernus_outer_2 = {
+				color = { 170 55 90 }
+				color2 = { 255 255 255 }
+				
+				b_barony_1141 = {
+					province = 1141
+					
+					color = { 170 75 90 }
+					color2 = { 255 255 255 }
+				}
+				
+				b_barony_795 = {
+					province = 795
+					
+					color = { 170 75 90 }
+					color2 = { 255 255 255 }
+				}
+					
+				b_barony_416 = {
+					province = 416
+					
+					color = { 170 75 90 }
+					color2 = { 255 255 255 }
+				}
+		}
+			c_infernus_outer_3 = {
+				color = { 170 55 90 }
+				color2 = { 255 255 255 }
+				
+				b_barony_1315 = {
+					province = 1315
+					
+					color = { 170 75 90 }
+					color2 = { 255 255 255 }
+				}
+				
+				b_barony_891 = {
+					province = 891
+					
+					color = { 170 75 90 }
+					color2 = { 255 255 255 }
+				}
+		}
+			c_infernus_outer_4 = {
+				color = { 170 55 90 }
+				color2 = { 255 255 255 }
+				
+				b_barony_882 = {
+					province = 882
+					
+					color = { 170 75 90 }
+					color2 = { 255 255 255 }
+				}
+				
+				b_barony_1463 = {
+					province = 1463
+					
+					color = { 170 75 90 }
+					color2 = { 255 255 255 }
+				}
+				b_barony_1468 = {
+					province = 1468
+					
+					color = { 170 75 90 }
+					color2 = { 255 255 255 }
+				}
+		}
+			c_infernus_outer_5 = {
+				color = { 170 55 90 }
+				color2 = { 255 255 255 }
+				
+				b_barony_1150 = {
+					province = 1150
+					
+					color = { 170 75 90 }
+					color2 = { 255 255 255 }
+				}
+				
+				b_barony_940 = {
+					province = 940
+					
+					color = { 170 75 90 }
+					color2 = { 255 255 255 }
+				}
+				b_barony_803 = {
+					province = 803
+					
+					color = { 170 75 90 }
+					color2 = { 255 255 255 }
+				}
+		}
+			c_infernus_outer_6 = {
+				color = { 170 55 90 }
+				color2 = { 255 255 255 }
+				
+				b_barony_1461 = {
+					province = 1461
+					
+					color = { 170 75 90 }
+					color2 = { 255 255 255 }
+				}
+				
+				b_barony_547 = {
+					province = 547
+					
+					color = { 170 75 90 }
+					color2 = { 255 255 255 }
+				}
+				b_barony_880 = {
+					province = 880
+					
+					color = { 170 75 90 }
+					color2 = { 255 255 255 }
+				}
+		}
+			c_infernus_outer_7 = {
+				color = { 170 55 90 }
+				color2 = { 255 255 255 }
+				
+				b_barony_927 = {
+					province = 927
+					
+					color = { 170 75 90 }
+					color2 = { 255 255 255 }
+				}
+				
+				b_barony_607 = {
+					province = 607
+					
+					color = { 170 75 90 }
+					color2 = { 255 255 255 }
+				}
+				b_barony_1572 = {
+					province = 1572
+					
+					color = { 170 75 90 }
+					color2 = { 255 255 255 }
+				}
+		}
+			c_infernus_gardens_2 = {
+				color = { 170 55 90 }
+				color2 = { 255 255 255 }
+				
+				b_barony_711 = {
+					province = 711
+					
+					color = { 170 75 90 }
+					color2 = { 255 255 255 }
+				}
+				
+				b_barony_864 = {
+					province = 864
+					
+					color = { 170 75 90 }
+					color2 = { 255 255 255 }
+				}
+				b_barony_517 = {
+					province = 517
+					
+					color = { 170 75 90 }
+					color2 = { 255 255 255 }
+				}
+		}
+		
+		d_infernus_inner = {
+			color = { 180 25 100 }
+			color2 = { 255 255 255 }
+			
+			capital = c_core_1
+			c_core_1 = {
+				color = { 170 55 90 }
+				color2 = { 255 255 255 }
+				
+				b_barony_1006 = {
+					province = 1006
+					
+					color = { 170 55 90 }
+					color2 = { 255 255 255 }
+				}
+				
+				b_barony_324 = {
+					province = 324
+					
+					color = { 170 65 90 }
+					color2 = { 255 255 255 }
+				}
+				b_barony_537 = {
+					province = 537
+					
+					color = { 170 65 90 }
+					color2 = { 255 255 255 }
+				}
+				b_barony_714 = {
+					province = 714
+					
+					color = { 170 65 90 }
+					color2 = { 255 255 255 }
+				}
+			}
+			
+			c_core_2 = {
+				color = { 170 55 90 }
+				color2 = { 255 255 255 }
+				
+				b_barony_1106 = {
+					province = 1106
+					
+					color = { 170 75 90 }
+					color2 = { 255 255 255 }
+				}
+				
+				b_barony_1452 = {
+					province = 1452
+					
+					color = { 170 75 90 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_core_3 = {
+				color = { 170 55 90 }
+				color2 = { 255 255 255 }
+				
+				b_barony_621 = {
+					province = 621
+					
+					color = { 170 75 90 }
+					color2 = { 255 255 255 }
+				}
+				
+				b_barony_916 = {
+					province = 916
+					
+					color = { 170 75 90 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+
+	}
+  }
+}
+

@@ -1,0 +1,124 @@
+#e_inferno
+e_inferno = {
+	980.1.1 = {
+		holder = 6000000
+		government = feudal_government
+	}
+}
+
+
+k_infernus = {
+	980.1.1 = {
+		holder = 6000000
+		government = feudal_government
+	}
+}
+
+
+d_infernus_outer = {
+	980.1.1 = {
+		holder = 6000000
+		government = feudal_government
+	}
+}
+
+
+c_lucifers_palace = {
+	980.1.1 = {
+		holder = 6000000
+		government = feudal_government
+	}
+}
+
+c_infernus_gardens = {
+	980.1.1 = {
+		holder = 6000000
+		government = feudal_government
+	}
+}
+
+c_infernus_gardens_2 = {
+	980.1.1 = {
+		holder = 6000000
+		government = feudal_government
+	}
+}
+
+c_infernus_outer_1 = {
+	980.1.1 = {
+		holder = 6000000
+		government = feudal_government
+	}
+}
+
+c_infernus_outer_2 = {
+	980.1.1 = {
+		holder = 6000000
+		government = feudal_government
+	}
+}
+
+c_infernus_outer_3 = {
+	980.1.1 = {
+		holder = 6000000
+		government = feudal_government
+	}
+}
+
+c_infernus_outer_4 = {
+	980.1.1 = {
+		holder = 6000000
+		government = feudal_government
+	}
+}
+
+c_infernus_outer_5 = {
+	980.1.1 = {
+		holder = 6000000
+		government = feudal_government
+	}
+}
+
+c_infernus_outer_6 = {
+	980.1.1 = {
+		holder = 6000000
+		government = feudal_government
+	}
+}
+
+c_infernus_outer_7 = {
+	980.1.1 = {
+		holder = 6000000
+		government = feudal_government
+	}
+}
+
+
+d_infernus_inner = {
+	980.1.1 = {
+		holder = 6000000
+		government = feudal_government
+	}
+}
+
+
+c_core_1 = {
+	980.1.1 = {
+		holder = 6000000
+		government = feudal_government
+	}
+}
+
+c_core_2 = {
+	980.1.1 = {
+		holder = 6000000
+		government = feudal_government
+	}
+}
+
+c_core_3 = {
+	980.1.1 = {
+		holder = 6000000
+		government = feudal_government
+	}
+}

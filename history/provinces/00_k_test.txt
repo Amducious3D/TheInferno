@@ -1,0 +1,333 @@
+#e_inferno
+1256 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+595 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+965 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+275 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+1430 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+398 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+456 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+1302 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+795 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+1141 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+416 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+1315 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+891 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+882 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+1468 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+1150 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+803 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+940 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+547 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+1461 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+880 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+927 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+607 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+711 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+864 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+517 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+988 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+1066 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+1452 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+621 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+916 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+537 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+714 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+324 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+1106 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+1006 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
+
+1463 = {	
+	
+	# Misc
+	culture = luciferan
+	religion = luciferan
+	holding = castle_holding
+
+}
