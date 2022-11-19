@@ -7,11 +7,11 @@
 		"siege":	3
 	},
 	"avoid_distance":	{
-		"buildings":	2.500000,
+		"buildings":	5,
 		"special_buildings":	1,
 		"stack_player":	5,
-		"combat":	5,
-		"siege":	4
+		"combat":	10,
+		"siege":	7
 	},
 	"siege_pattern":	{
 		"dist_to_point_min":	5.150000,
@@ -40,8 +40,8 @@
 	},
 	"building_pattern":	{
 		"range_min":	2,
-		"range_max":	6,
-		"to_south_mult":	6,
+		"range_max":	12,
+		"to_south_mult":	12,
 		"dist_to_southern_shore_min":	2,
 		"dist_to_southern_shore_max":	4,
 		"southern_shore_score":	2,

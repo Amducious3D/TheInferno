@@ -400,13 +400,13 @@
 		id =		"medi_noisy_grass"
 	}
 	{
-        name=       "Medi Farmlands"
-        diffuse=    "medi_farmlands_diffuse.dds"
-        normal=     "medi_farmlands_normal.dds"
-        material=   "medi_farmlands_properties.dds"
-        mask=       "medi_farmlands_mask.bmp"
-        id =        "medi_farmlands"
-    }	
+        	name=       "Medi Farmlands"
+        	diffuse=    "medi_farmlands_diffuse.dds"
+        	normal=     "medi_farmlands_normal.dds"
+        	material=   "medi_farmlands_properties.dds"
+        	mask=       "medi_farmlands_mask.bmp"
+        	id =        "medi_farmlands"
+    	}	
 	{
 		name=		"Northern Plains 01"
 		diffuse=	"northern_plains_01_diffuse.dds"
@@ -455,7 +455,7 @@
 		mask=		"india_farmlands_mask.bmp"
 		id =		"india_farmlands"
 	}
-		{
+	{
 		name=		"Hardened Lava"
 		diffuse=	"hardened_lava_diffuse.dds"
 		normal=		"hardened_lava_normal.dds"
